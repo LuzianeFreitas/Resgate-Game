@@ -41,6 +41,13 @@ body {
 
 }
 
+#disparo {
+	width: 50px;
+	height: 8px;
+	position: absolute;
+	background-image: url(../imgs/disparo.png);
+}
+
 #inimigo1 {
 	width: 256px;
 	height: 66px;
