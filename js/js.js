@@ -181,7 +181,7 @@ function start() { // Inicio da função start()
 
 		if (colisao1.length > 0) {
 			energiaAtual--;
-
+			velocidade=velocidade+0.3;
 			inimigo1X = parseInt($("#inimigo1").css("left"));
 			inimigo1Y = parseInt($("#inimigo1").css("top"));
 			explosao1(inimigo1X, inimigo1Y);
@@ -194,7 +194,7 @@ function start() { // Inicio da função start()
 		// jogador com o inimigo2 
 		if (colisao2.length > 0) {
 			energiaAtual--;
-			
+
 			inimigo2X = parseInt($("#inimigo2").css("left"));
 			inimigo2Y = parseInt($("#inimigo2").css("top"));
 			explosao2(inimigo2X, inimigo2Y);
