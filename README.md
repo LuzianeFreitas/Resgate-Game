@@ -11,3 +11,15 @@
 <p align="center">
 <img alt="App Demo" src="./picture2.png">
 </p>
+
+<h3> 📌 Página inicial jogo finalizada</h3>
+<p align="center">
+<img alt="App Demo" src="./picture3.png">
+</p>
+
+<h3> 📌 Página Game Over</h3>
+<p align="center">
+<img alt="App Demo" src="./picture4.png">
+</p>
+
+
